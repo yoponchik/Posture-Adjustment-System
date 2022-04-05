@@ -7,6 +7,8 @@ _An eye tracking cushion system that adjusts postures._
 ----------
 <h2>Project Details</h2>
 
+**Project Date:** 2021.01 - 2021.02
+
 **Project Objective:** A inflation bag for blood pressure machine was used as a neck cushion. When bad posture is detected, the cushion is inflated, thus repositioning the neck. 
 
 **Dev Tools:** Arduino, OpenCV, Dlib
